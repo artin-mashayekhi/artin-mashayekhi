@@ -7,6 +7,7 @@ ___
 
 <h1>Artin-Mashayekhi</h1>
 <P>I'm programmer <br> Interested in the web world <br> just trust me 😉</P>
+<a href="https://www.instagram.com/artin_mashayekhi/">Instagram </a>
 
 <!--
 **artin-mashayekhi/artin-mashayekhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
